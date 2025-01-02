@@ -1,2 +1,2 @@
 # Data-Analysis-and-Visualization
-A collection of algorithms used to analyze and visualize data
+A collection of algorithms and programs used to analyze and visualize data
