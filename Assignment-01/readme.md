@@ -1,5 +1,8 @@
 # Heart Disease Data Processing
 
+## Overview
+This Python script processes heart disease data through various data manipulation and preparation steps. It demonstrates data loading, inspection, format conversion, cleaning, and preprocessing operations using pandas and scikit-learn.
+
 ## Description
 This Python script performs comprehensive data processing operations on a heart disease dataset. It demonstrates various data handling techniques including loading, inspection, format conversion, and preprocessing.
 
@@ -30,6 +33,16 @@ Simply run the script to process the heart disease dataset:
 ```sh
 python heart.py
 ```
+
+## Features
+- Data loading from CSV file
+- Data inspection and statistical analysis
+- Multiple format exports (Excel, JSON, SQL)
+- Data cleaning operations:
+    - Missing value handling
+    - Duplicate removal
+    - Numerical data normalization
+    - Categorical data encoding
 
 ## Contributing
 
