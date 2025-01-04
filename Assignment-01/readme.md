@@ -33,6 +33,7 @@ Simply run the script to process the heart disease dataset:
 ```sh
 python heart.py
 ```
+Refer to the heart.ipynb file as well.
 
 ## Features
 - Data loading from CSV file
@@ -51,3 +52,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## Authors
 
 - Vedant Neve (https://github.com/octal007)
+
